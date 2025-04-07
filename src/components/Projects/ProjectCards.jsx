@@ -8,7 +8,7 @@ import Image from "next/image";
 function ProjectCards({ imgPath, title, description, ghLink, isBlog, demoLink }) {
   return (
     <div className="bg-gray-800 rounded-lg shadow-lg overflow-hidden p-4 text-white">
-      <Image width={100} height={100} src={imgPath} alt="Project-img" className="w-full h-48 object-cover rounded-md" />
+      <Image width={400} height={400} src={imgPath} alt="Project-img" className="w-full h-48  rounded-md" />
       <div className="p-4">
         <h3 className="text-xl font-semibold">{title}</h3>
         <p className="text-sm text-gray-300 mt-2 text-justify">{description}</p>

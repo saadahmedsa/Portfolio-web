@@ -14,6 +14,7 @@ import buy from "../../Assets/Projects/buysell.PNG";
 import weather from "../../Assets/Projects/weather.PNG";
 import todo from "../../Assets/Projects/todo.PNG";
 import char from "../../Assets/Projects/charity.PNG";
+import zara from "../../Assets/Projects/zara.PNG";
 
 function Projects() {
   return (
@@ -25,8 +26,11 @@ function Projects() {
         <p className="text-center text-gray-400 mb-10">
           Here are a few projects I've worked on recently.
         </p>
-        <div className="grid md:grid-cols-3 gap-6">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[{
+            img: zara, title: "Zara's", desc: "Ecommerce App app using Next.js and Express.js with all functiontionality and Admin Panel.", demo: "https://zara-s-client.vercel.app/",gh:"https://github.com/SaadAhmedSA/Zara-s-client"
+          }, 
+          {
             img: zyck, title: "Zyck Properties", desc: "Real Estate app using Next.js for selling and renting properties.", demo: "https://www.zyckproperty.com/"
           }, {
             img: olx, title: "Olx Clone", desc: "Users can sign in and post ads for selling items.", gh: "https://github.com/SaadAhmedSA/olx-clone", demo: "https://olx-clone-sfvs.vercel.app/"
