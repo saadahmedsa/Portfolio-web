@@ -15,6 +15,7 @@ import weather from "../../Assets/Projects/weather.PNG";
 import todo from "../../Assets/Projects/todo.PNG";
 import char from "../../Assets/Projects/charity.PNG";
 import zara from "../../Assets/Projects/zara.PNG";
+import App from "../../Assets/Projects/appointment.jpeg";
 
 function Projects() {
   return (
@@ -28,6 +29,9 @@ function Projects() {
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[{
+            img: App, title: "Prescripto", desc: "Doctor Appointment App app using Next.js and Express.js with all functiontionality and Admin Panel.", demo: "https://prescripto-clone.vercel.app/",gh:"https://github.com/SaadAhmedSA/Prescripto-clone"
+          }, 
+          {
             img: zara, title: "Zara's", desc: "Ecommerce App app using Next.js and Express.js with all functiontionality and Admin Panel.", demo: "https://zara-s-client.vercel.app/",gh:"https://github.com/SaadAhmedSA/Zara-s-client"
           }, 
           {
