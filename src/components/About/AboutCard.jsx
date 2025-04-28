@@ -11,7 +11,7 @@ function AboutCard() {
         I am a Junior Front-end developer using <span className="text-purple-500">ReactJS</span> &{" "}
         <span className="text-purple-500">NextJS</span>. I had an opportunity to intern at Zyck
         Technology as a Front-end Developer, where I really enjoyed my experience and contributed to
-        their projects.
+        their projects.Also Passionate about MERN Stack Development.
         <br />
         <br />
         Apart from coding, some other activities that I love to do!
