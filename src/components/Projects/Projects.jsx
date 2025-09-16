@@ -35,7 +35,7 @@ function Projects() {
             img: zara, title: "Zara's", desc: "Ecommerce App app using Next.js and Express.js with all functiontionality and Admin Panel.", demo: "https://zara-s-client.vercel.app/",gh:"https://github.com/SaadAhmedSA/Zara-s-client"
           }, 
           {
-            img: zyck, title: "Zyck Properties", desc: "Real Estate app using Next.js for selling and renting properties.", demo: "https://www.zyckproperty.com/"
+            img: zyck, title: "Zyck Properties", desc: "Real Estate app using Next.js for selling and renting properties.", demo: "https://zyck-property.vercel.app/"
           }, {
             img: olx, title: "Olx Clone", desc: "Users can sign in and post ads for selling items.", gh: "https://github.com/SaadAhmedSA/olx-clone", demo: "https://olx-clone-sfvs.vercel.app/"
           }, {
