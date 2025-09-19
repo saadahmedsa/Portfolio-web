@@ -31,7 +31,7 @@ function Projects() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
           {[
             {
-            img: Invo, title: "InvoMate (web & Mobile app)", desc: "Invoice App  – A MERN-based web app for creating, managing, and tracking invoices with features like AI-powered invoice parsing, filters/search, CSV export, and Stripe-powered subscription plans.", demo: "https://invoice-parser-accountant-agent-91u.vercel.app/",gh:""
+            img: Invo, title: "InvoMate (Web & App)", desc: "A MERN-based web app for tracking expense with features like AI-powered invoice parsing.", demo: "https://invoice-parser-accountant-agent-91u.vercel.app/",gh:""
           }, 
             {
             img: App, title: "Prescripto", desc: "Doctor Appointment App app using Next.js and Express.js with all functiontionality and Admin Panel.", demo: "https://prescripto-clone.vercel.app/",gh:"https://github.com/SaadAhmedSA/Prescripto-clone"
