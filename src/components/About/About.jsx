@@ -11,7 +11,7 @@ function About() {
       <div className="container mx-auto px-4 text-center">
         <div className="flex flex-col md:flex-row items-center justify-center gap-10">
           <div className="md:w-2/3 text-left">
-            <h1 className="text-4xl font-bold mb-6">
+            <h1 className="text-4xl font-bold mb-6 text-center">
               Know Who <span className="text-purple-500">I'M</span>
             </h1>
             <Aboutcard />
