@@ -38,10 +38,10 @@ function Projects() {
             img: App, title: "Prescripto", desc: "Doctor Appointment App app using Next.js and Express.js with all functiontionality and Admin Panel.", demo: "https://prescripto-clone.vercel.app/",gh:"https://github.com/SaadAhmedSA/Prescripto-clone"
           }, 
           {
-            img: zara, title: "Zara's", desc: "Ecommerce App app using Next.js and Express.js with all functiontionality and Admin Panel.", demo: "https://realtime-billionier.vercel.app/",gh:"https://github.com/SaadAhmedSA/Zara-s-client"
+            img: zara, title: "Zara's", desc: "Ecommerce App app using Next.js and Express.js with all functiontionality and Admin Panel.", demo: "https://zara-s-client.vercel.app/",gh:"https://github.com/SaadAhmedSA/Zara-s-client"
           }, 
           {
-            img: Bill, title: "Realtime Billionaire", desc: "Realtime billionaire list using Nextjs and RestAPI which show top 400. ", demo: "https://zara-s-client.vercel.app/",gh:"https://github.com/saadahmedsa/Realtime-billionier"
+            img: Bill, title: "Realtime Billionaire", desc: "Realtime billionaire list using Nextjs and RestAPI which show top 400. ", demo: "https://realtime-billionier.vercel.app/",gh:"https://github.com/saadahmedsa/Realtime-billionier"
           }, 
           {
             img: zyck, title: "Zyck Properties", desc: "Real Estate app using Next.js for selling and renting properties.", demo: "https://zyck-property.vercel.app/"
